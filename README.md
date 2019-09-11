@@ -88,3 +88,11 @@ $ python3 gui.py
 this gui is made using python Tkinter package 
 ```
 
+## Testing The Model
+---
+--------------
+model can be tested using command 
+```
+$ python3 gui.py
+```
+after cloning the repository
