@@ -60,11 +60,23 @@ This repository contains files related to my project on Image Caption Generation
     ```
 ##Run
 ---
-**Image Feature Extraction**
+*Image Feature Extraction*
 --------------------------
 ```
 $ python3 ImageFeature_extraction.py
 ---
 
-## Author
+```
+$ python3 clean_captions.py
+---
+
+```
+$ python3 vocabulary.py
+---
+
+```
+$ python3 training.py
+---
+
+
 
