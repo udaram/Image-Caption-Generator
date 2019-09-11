@@ -3,13 +3,13 @@
 
 ----
 ## Description
-This repository is a task for Graphics and Artificial Intelligence Laboratory assistant selection. Build a model for sentiment analysis of product review in Bahasa Indonesia.
+This repository contains files related to my project on Image Caption Generation.
 
 ----
 ## Dataset
-1. Dataset scraped from Lazada contains 2 columns
+1. Flickr30k Dataset has been used for the training of model
 
-    ratings | review
+ 
     ---- | ----
 
 ## Dictionary
