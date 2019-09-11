@@ -58,7 +58,7 @@ This repository contains files related to my project on Image Caption Generation
 
 
     ```
-##Run
+## Run Model in steps
 ---
 *Image Feature Extraction*
 --------------------------
