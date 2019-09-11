@@ -8,13 +8,8 @@ This repository contains files related to my project on Image Caption Generation
 ----
 ## Dataset
 1. Flickr30k Dataset has been used for the training of model
-
- 
-    ---- | ----
-
-## Dictionary
-1. Indonesian stopwords by [oswinrh](https://www.kaggle.com/oswinrh/indonesian-stoplist)
-2. Dictionary gathered from Github [Rama Prakoso](https://github.com/ramaprakoso/analisis-sentimen)
+Link of Dataset [Flickr30K](https://www.kaggle.com/hsankesara/flickr-image-dataset)
+2.Glove6B dataset [Link](https://drive.google.com/open?id=1GI5sWeCxgJEgToeVmakL69oDlXowXGU4)
 
 ## Requirements
 * Python 3.5
@@ -25,11 +20,10 @@ This repository contains files related to my project on Image Caption Generation
 * Tkinter
 * keras
 * tensorflow
-* 
 
 ## Project Structure
 ----
-    ├── README.md          <- The top-level README for developers using this project.
+    ├── README.md          <- The top-level README 
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
