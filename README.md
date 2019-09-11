@@ -18,12 +18,14 @@ This repository is a task for Graphics and Artificial Intelligence Laboratory as
 
 ## Requirements
 * Python 3.5
-* Jupyter Notebook
-* Scikit-learn
 * Matplotlib
 * Pandas
 * Numpy
-* NLTK
+* PIL 
+* Tkinter
+* keras
+* tensorflow
+* 
 
 ## Project Structure
 ----
