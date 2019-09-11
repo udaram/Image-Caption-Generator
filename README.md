@@ -64,22 +64,27 @@ This repository contains files related to my project on Image Caption Generation
 --------------------------
 ```
 $ python3 ImageFeature_extraction.py
----
+```
+*Caption Preprocessing step*
 --------------------------
----
-Caption Preprocessing step
----
 ```
 $ python3 clean_captions.py
----
-
+```
+*Generating Vocabulary of Caption words*
+--------------------------
 ```
 $ python3 vocabulary.py
----
-
+```
+*Training of the Model*
+--------------------------
 ```
 $ python3 training.py
----
+```
+*Test mode*
+--------------------------
+```
+$ python3 gui.py
 
-
+this gui is made using python Tkinter package 
+```
 
