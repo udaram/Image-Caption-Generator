@@ -7,8 +7,8 @@ This repository contains files related to my project on Image Caption Generation
 
 ----
 ## Dataset
-1. Flickr30k Dataset has been used for the training of model
-   Link of Dataset [Flickr30K](https://www.kaggle.com/hsankesara/flickr-image-dataset)
+1. Flickr30k Dataset has been used for the training of model.
+   [Flickr30K](https://www.kaggle.com/hsankesara/flickr-image-dataset)
 2. Glove6B dataset [Link](https://drive.google.com/open?id=1GI5sWeCxgJEgToeVmakL69oDlXowXGU4)
 
 ## Requirements
@@ -23,43 +23,39 @@ This repository contains files related to my project on Image Caption Generation
 
 ## Project Structure
 ----
-    ├── README.md          <- The top-level README 
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
+├── beamsearch.py
+├── clean_captions.py
+├── Dataset
+├── Glove
+│   └── glove.6B.300d.txt
+├── GreedyCaption.py
+├── gui.py
+├── gui_sub.py
+├── ImageFeature_extraction.py
+├── images
+│   ├── 101654506_8eb26cfb60.jpg
+│   ├── 102455176_5f8ead62d5.jpg
+│   ├── 106490881_5a2dd9b7bd.jpg
+│   ├── 10815824_2997e03d76.jpg
+│   ├── 20190908_182047.jpeg
+│   ├── 20190908_185519.jpeg
+│   ├── 47870024_73a4481f7d.jpg
+│   ├── 56494233_1824005879.jpg
+│   └── pic.jpeg
+├── index.jpeg
+├── model_weights
+│   └── FinalModel.h5
+├── Preprocessed Data
+│   ├── clean_captions.pkl
+│   ├── Image_features.pkl
+│   └── vocabulary.pkl
+├── requirements.txt
+├── requirements.txt~
+├── training.py
+├── training.py~
+├── Untitled.ipynb
+└── vocabulary.py
+
 
 
 ## Installation
