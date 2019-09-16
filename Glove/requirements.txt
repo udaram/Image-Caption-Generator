@@ -1,0 +1,4 @@
+
+Download glove dataset from below link and put in this directory
+
+https://drive.google.com/open?id=1GI5sWeCxgJEgToeVmakL69oDlXowXGU4
