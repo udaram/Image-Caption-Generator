@@ -1,0 +1,8 @@
+Python 3.5
+Matplotlib
+Pandas
+Numpy
+PIL 
+Tkinter
+keras
+tensorflow
