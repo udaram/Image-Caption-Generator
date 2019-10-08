@@ -11,6 +11,9 @@ This repository contains files related to my project on Image Caption Generation
    [Flickr30K](https://www.kaggle.com/hsankesara/flickr-image-dataset)
 2. Glove6B dataset [Link](https://drive.google.com/open?id=1GI5sWeCxgJEgToeVmakL69oDlXowXGU4)
 ----
+## Dataset
+* Reference Paper:[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf)
+----
 ## Requirements
 * Python 3.5
 * Matplotlib
