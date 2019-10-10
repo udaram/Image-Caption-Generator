@@ -83,7 +83,7 @@ $ python3 vocabulary.py
 ```
 $ python3 training.py
 ```
-*Test mode*
+*Test model*
 --------------------------
 ```
 $ python3 gui.py
