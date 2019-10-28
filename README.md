@@ -57,8 +57,9 @@ This repository contains files related to my project on Image Caption Generation
    ├── training.py<br>
    └── vocabulary.py<br>
 
-
-
+## Model flow Chart
+----
+<img src="https://github.com/udaram/Image-Caption-Generator/blob/master/model.png">
 
     ```
 ## Run Model in steps
