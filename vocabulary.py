@@ -1,9 +1,10 @@
+# importing necessary libraries and packages
 import numpy as np
 import string
 import pickle
 from pickle import load, dump
 
-
+#loading preprocessed captions
 captions = pickle.load(open('./Preprocessed Data/clean_captions.pkl','rb'))
 
 
