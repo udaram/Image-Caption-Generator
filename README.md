@@ -3,9 +3,7 @@
 
 ----
 ## Description
-Project on predicting caption for a image
-This repository 
-contains files related to my project on Image Caption Generation.
+This repository contains files related to my project on Image Caption Generation.
 
 ----
 ## Datasets
